@@ -1,1 +1,1 @@
-Molloy, E.K. and R.M. Birn (2014). FMRI_test-retest_reliability: Analysis tools for test-retest FMRI studies. ZENODO. doi:10.5281/zenodo.11808
+Molloy, E.K. and R.M. Birn (2014). FMRI_test-retest_reliability: Tools for test-retest FMRI studies. ZENODO. doi:10.5281/zenodo.11808
