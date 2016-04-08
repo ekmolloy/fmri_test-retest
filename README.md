@@ -20,7 +20,7 @@ X = [[9, 2, 5, 8],
      [10, 5, 6, 9],
      [6, 2, 4, 7]];
 
-[icc] = ICC(X, 1, 'k');
+[icc] = ICC(X, 1, 1);
 ```
 Let **A** represent data from a single subject across three scans. For example, these data could represent seed-based connectivity in 5 different regions of interest. Kendall's W can help us determine the similarity between the rankings of these ROIs with respect to the level of connectivity across different scanning sessions.
 ```
