@@ -30,7 +30,7 @@ A = [[14, 13, 13, 14, 13],
 
 [w, chi2, df, pval] = KendallsW(X);
 ```
-Now suppose matrix **A** is a connectivity matrix from a single subject, where data represent the connectivity between ROIs defined by the rows and columns. Let **B** be anouther connecitivity matrix for the same subject but computed from a different scanning session. The RMSD and Dice Coefficient can help us determine the similarity between the subject's connectivity matrices across scanning sessions.
+Now suppose matrix **A** is a connectivity matrix from a single subject, where data represent the connectivity between ROIs defined by the rows and columns. Let **B** be anouther connectivity matrix for the same subject but computed from a different scanning session. The RMSD and Dice Coefficient can help us determine the similarity between the subject's connectivity matrices across scanning sessions.
 ```
 B = [[12, 18, 19, 14, 16],
      [13, 17, 12, 12, 15],
