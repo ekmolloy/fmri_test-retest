@@ -11,7 +11,7 @@ Molloy, E.K. and Birn, R.M. (2014). Tools for test-retest FMRI studies. ZENODO. 
 
 Examples
 --------
-Let matrix **X** represent data from 6 subjects collected across 4 functional imaging sessions. For example, these data could represent seed-based connecitivty in region-of-interest (ROI). The Intraclass Correlation Coefficient (ICC) with a random effects model can help us determine the reliablity of this measurement across scaning sesions. 
+Let matrix **X** represent data from 6 subjects collected across 4 functional imaging sessions. For example, these data could represent seed-based connecitivty in region-of-interest (ROI). The Intraclass Correlation Coefficient (ICC) with a random effects model can help us determine the reliablity of this measurement across scanning sesions. 
 ```
 X = [[9, 2, 5, 8],
      [6, 1, 3, 2],
