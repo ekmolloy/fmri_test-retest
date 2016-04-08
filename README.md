@@ -1,7 +1,7 @@
 Tools for test-retest FMRI studies
 ==========================================
 
-Analyze data from test-retest functional neuroimaging studies quickly using MATLAB. Metrics include the Intraclass Correlation Coefficient (ICC), Kendall's Coefficient of Concordance (W), Root-Mean Squared Deviation (RMS), and the Dice Coefficient. These MATLAB scripts were used in serveral test-retest studies performed in the Birn Laboratory, including Birn R.M., Molloy E.K., et al. (2013). The effect of scan length on the reliability of resting-state fMRI connectivity estimates. *Neuroimage* 83: 550-558. [doi:10.1016/j.neuroimage.2013.05.099](http://dx.doi.org/10.1016/j.neuroimage.2013.05.099).
+Analyze data from test-retest functional neuroimaging studies quickly using MATLAB. Metrics include the Intraclass Correlation Coefficient (ICC), Kendall's Coefficient of Concordance (W), Root-Mean Squared Deviation (RMSD), and the Dice Coefficient. These MATLAB scripts were used in serveral test-retest studies performed in the Birn Laboratory, including Birn R.M., Molloy E.K., et al. (2013). The effect of scan length on the reliability of resting-state fMRI connectivity estimates. *Neuroimage* 83: 550-558. [doi:10.1016/j.neuroimage.2013.05.099](http://dx.doi.org/10.1016/j.neuroimage.2013.05.099).
 
 Citation
 --------
